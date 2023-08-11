@@ -2,7 +2,7 @@
 
 A simple web-based calculator built using HTML, CSS, and JavaScript that can perform basic arithmetic operations.
 
-![Calculator Preview](screenshot.png)
+![Calculator Preview](https://github.com/minhajulislam101/Basic-Calulator/blob/main/image.png?raw=true)
 
 ## Features 🌟
 
@@ -10,14 +10,9 @@ A simple web-based calculator built using HTML, CSS, and JavaScript that can per
 - Clear button to reset the calculator.
 - Responsive design for various screen sizes.
 
-## Demo 🚀
+Technologies Used 💻
 
-Check out the live demo of the calculator [here](https://your-demo-link.com).
-
-## How to Use 📝
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/simple-basic-calculator.git
+    HTML
+    CSS
+    JavaScript
 
